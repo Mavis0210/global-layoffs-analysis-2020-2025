@@ -69,7 +69,7 @@ The aim was to keep the layout clear and focused on the main insights.
 
 
 
-!\[Dashboard](screenshots/dashboard.png)
+![Dashboard](/screenshots/dashboard.png)
 
 
 
