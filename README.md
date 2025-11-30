@@ -12,19 +12,17 @@ This project analyzes worldwide layoffs between 2020 and 2025. I cleaned the dat
 
 Before creating the dashboard, I ran a full cleaning process in SQL, which included:
 
--fixing inconsistent date formats
+- fixing inconsistent date formats
 
--converting text-based numeric fields
+- converting text-based numeric fields
 
--trimming extra spaces
+- trimming extra spaces
 
--removing duplicates
+- removing duplicates
 
--handling missing or incomplete entries
+- handling missing or incomplete entries
 
--creating the final staging table for export
-
-
+- creating the final staging table for export
 
 The cleaned table was then exported as layoffs\_cleaned.csv for use in Power BI.
 
@@ -38,17 +36,17 @@ The dashboard includes:
 
 
 
--Total Layoffs by Year (line chart)
+- Total Layoffs by Year (line chart)
 
--KPI Card: Total Layoffs
+- KPI Card: Total Layoffs
 
--Company Dropdown (Slicer)
+- Company Dropdown (Slicer)
 
--Top Companies by Total Layoffs (bar chart)
+- Top Companies by Total Layoffs (bar chart)
 
--Country-Level Layoffs Map
+- Country-Level Layoffs Map
 
--Year-to-Year Summary Table with YoY % Change
+- Year-to-Year Summary Table with YoY % Change
 
 
 
@@ -85,11 +83,11 @@ If I expand this project in the future, I may:
 
 
 
--connect Power BI directly to the SQL database
+- connect Power BI directly to the SQL database
 
--add more DAX measures (rolling metrics, forecasts, industry breakdowns)
+- add more DAX measures (rolling metrics, forecasts, industry breakdowns)
 
--build drill-down pages for companies or countries
+- build drill-down pages for companies or countries
 
 
 
