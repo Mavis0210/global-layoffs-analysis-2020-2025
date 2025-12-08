@@ -6,7 +6,7 @@ This project analyzes worldwide layoffs between 2020 and 2025. I cleaned the dat
 
 
 
-### Data Preparation (SQL)
+## Data Preparation (SQL)
 
 
 
@@ -28,7 +28,7 @@ The cleaned table was then exported as layoffs\_cleaned.csv for use in Power BI.
 
 
 
-### Dashboard Contents
+## Dashboard Contents
 
 
 
@@ -56,7 +56,7 @@ The aim was to keep the layout clear and focused on the main insights.
 
 
 
-### How to Use
+## How to Use
 
 
 
@@ -67,7 +67,7 @@ The aim was to keep the layout clear and focused on the main insights.
 
 
 
-### Dashboard Preview
+## Dashboard Preview
 
 
 
@@ -88,7 +88,7 @@ The aim was to keep the layout clear and focused on the main insights.
 - Consider expanding the analysis with rolling averages, forecast models, and sector- or industry-level breakdowns for deeper insight.  
 
 
-### Notes / Next Steps
+## Notes / Next Steps
 
 
 
@@ -104,7 +104,7 @@ If I expand this project in the future, I may:
 
 
 
-### Purpose of This Project
+## Purpose of This Project
 
 
 
