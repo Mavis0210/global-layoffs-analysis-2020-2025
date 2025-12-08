@@ -1,4 +1,4 @@
-# Global Tech Layoffs: 2020–2025 Dashboard
+# Global Layoffs: 2020–2025 Dashboard
 
 
 
