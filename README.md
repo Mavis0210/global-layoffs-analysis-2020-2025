@@ -46,6 +46,8 @@ The dashboard includes:
 
 - Country-Level Layoffs Map
 
+- Continent Slicer
+
 - Year-to-Year Summary Table with YoY % Change
 
 
@@ -72,7 +74,18 @@ The aim was to keep the layout clear and focused on the main insights.
 ![Dashboard](/screenshots/dashboard.png)
 
 
+## Key Insights
 
+- Layoffs peaked in 2023 with over 213,000 layoffs, followed by a decline in 2024 and 2025.  
+- Intel and Amazon are the companies with the highest layoffs across the period.  
+- North America experienced the largest share of layoffs, followed by Asia, then Europe.  
+- Although 2023 had the highest total layoffs, the strongest year-over-year growth occurred in 2022 (+8.51%), while growth was modest in 2023 (+0.42%).  
+
+## Recommendations
+
+- Organizations should monitor tech-sector layoff trends to anticipate market shifts, talent availability, and industry changes.  
+- Policymakers and stakeholders could consider supporting retraining/upskilling programs in regions most affected by layoffs.  
+- Consider expanding the analysis with rolling averages, forecast models, and sector- or industry-level breakdowns for deeper insight.  
 
 
 ### Notes / Next Steps
