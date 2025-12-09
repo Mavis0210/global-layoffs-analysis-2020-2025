@@ -83,9 +83,8 @@ The aim was to keep the layout clear and focused on the main insights.
 
 ## Recommendations
 
-- Organizations should monitor tech-sector layoff trends to anticipate market shifts, talent availability, and industry changes.  
-- Policymakers and stakeholders could consider supporting retraining/upskilling programs in regions most affected by layoffs.  
-- Consider expanding the analysis with rolling averages, forecast models, and sector- or industry-level breakdowns for deeper insight.  
+- Organizations should monitor layoff trends to anticipate market shifts, talent availability, and industry changes.  
+- Policymakers and stakeholders could consider supporting retraining/upskilling programs in regions most affected by layoffs.    
 
 
 ## Notes / Next Steps
