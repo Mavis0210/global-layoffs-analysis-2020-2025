@@ -22,56 +22,31 @@ Before creating the dashboard, I ran a full cleaning process in SQL, which inclu
 
 - handling missing or incomplete entries
 
+- Creating a Continent column using country-to-continent mapping  
+
 - creating the final staging table for export
 
-The cleaned table was then exported as layoffs\_cleaned.csv for use in Power BI.
+The cleaned dataset was saved as layoffs_cleaned.csv and loaded into Power BI.
 
 
 
-## Dashboard Contents
+## Dashboard Contents (Power BI)
 
+The dashboard is organized to highlight the most important global layoff trends.  
+It includes:
+- **Total Layoffs by Year** (line chart)
+  
+- **KPI Card**: Total Layoffs
+  
+- **Company Slicer**
 
+- **Map of Layoffs by Country**
+ 
+- **Top Companies by Total Layoffs** (bar chart)
 
-The dashboard includes:
+- **Year-to-Year Summary Table** with YoY % Change
 
-
-
-- Total Layoffs by Year (line chart)
-
-- KPI Card: Total Layoffs
-
-- Company Dropdown (Slicer)
-
-- Top Companies by Total Layoffs (bar chart)
-
-- Country-Level Layoffs Map
-
-- Continent Slicer
-
-- Year-to-Year Summary Table with YoY % Change
-
-
-
-The aim was to keep the layout clear and focused on the main insights.
-
-
-
-## How to Use
-
-
-
-1. Download or clone the repository
-2. Open Layoffs.pbix in Power BI Desktop
-3. Keep the CSV file in the same folder so Power BI can find it
-4. Refresh the data model if needed
-
-
-
-## Dashboard Preview
-
-
-
-![Dashboard](/screenshots/dashboard.png)
+- **Continent Slicer** for regional filtering
 
 
 ## Key Insights
@@ -85,6 +60,24 @@ The aim was to keep the layout clear and focused on the main insights.
 
 - Organizations should monitor layoff trends to anticipate market shifts, talent availability, and industry changes.  
 - Policymakers and stakeholders could consider supporting retraining/upskilling programs in regions most affected by layoffs.    
+
+
+## How to Use
+
+
+1. Download or clone this repository  
+2. Open **Layoffs.pbix** in Power BI Desktop  
+3. Keep **layoffs_cleaned.csv** in the same folder so Power BI can locate the data  
+4. Refresh the model if needed
+
+
+
+## Dashboard Preview
+
+
+
+![Dashboard](/screenshots/dashboard.png)
+
 
 
 ## Notes / Next Steps
