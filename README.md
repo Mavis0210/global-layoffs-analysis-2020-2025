@@ -2,7 +2,7 @@
 
 
 
-This project analyzes worldwide layoffs between 2020 and 2025. I cleaned the dataset in SQL, exported the final table as a CSV, and used it to build a Power BI dashboard that highlights key trends, year-to-year changes, and the companies and regions most affected.
+This project analyzes worldwide layoffs between 2020 and 2025. I cleaned the dataset in SQL, exported the final table as a CSV, and used it to build a Power BI dashboard that highlights key trends, year to year changes, and the companies and regions most affected.
 
 
 
@@ -100,5 +100,12 @@ If I expand this project in the future, I may:
 
 
 
-The goal of this project was to take a messy raw dataset, clean it properly using SQL, and turn it into a clear and interactive dashboard in Power BI. It forms part of my broader data analytics portfolio.
+The goal of this project was to take a messy real-world dataset, clean and structure it using SQL, and build a polished, interactive Power BI dashboard that demonstrates:
 
+- Data cleaning  
+- Data modeling  
+- DAX measures  
+- Report design  
+- Business insights and storytelling
+
+This forms part of my professional data analytics portfolio.
